@@ -1,5 +1,5 @@
 
-# Dicee
+# Dicer
 
 Simple Dice app.
 
